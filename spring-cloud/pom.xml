@@ -14,6 +14,10 @@
 		<module>spring-cloud-servicefeign</module>
 		<module>spring-cloud-servicezuul</module>
         <module>spring-cloud-configclient</module>
+        <module>spring-cloud-servicezipkin</module>
+		<module>spring-cloud-servicehi</module>
+		<module>spring-cloud-servicemiya</module>
+        <module>spring-cloud-redislock</module>
     </modules>
 	<packaging>pom</packaging>
 
